@@ -1,0 +1,2 @@
+# NuGetServer
+Custom NuGet repository
